@@ -1,0 +1,10 @@
+{
+  "name": "eslint-plugin-react-builder",
+  "dependencies": {
+    "eslint-plugin-react": "^7.31.10"
+  },
+  "devDependencies": {
+    "@types/node": "18.11.7",
+    "fast-glob": "^3.2.12"
+  }
+}
